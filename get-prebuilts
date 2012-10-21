@@ -1,0 +1,9 @@
+
+BASEDIR=`dirname $0`
+
+mkdir -p $BASEDIR/proprietary
+
+# Get File Manager
+#curl -L -o $BASEDIR/proprietary/RomManager.apk -O -L http://download.clockworkmod.com/recoveries/RomManager.apk
+
+
