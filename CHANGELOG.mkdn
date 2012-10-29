@@ -36,7 +36,7 @@ Sapir changelog:<br>
 <li> (<font color="#D9117C">Samsung Galaxy Tab</font>) Reverted back to CM kernel </li>
 <li> <a href="http://review.cyanogenmod.com/#/q/status:merged,n,z">
 CM Gerrit</a>
-merges as of Wed Oct 24 10:40:45 UTC 2012
+merges as of Mon Oct 29 14:22:02 UTC 2012
 </li>
 <li> New Calculator features </li>
 <li> Added handling of vol rocker long press in camera </li>
