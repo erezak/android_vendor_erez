@@ -11,7 +11,7 @@ Visit http://github.com/CyanogenMod for full changelogs and git access.<br>
 <h3><u>CHANGELOG</u></h3>
 
 ### cm 10 <br>
-* Common: Android 4.1.1 (Google)<br>
+* Common: Android 4.1.2 (Google)<br>
 <br>
 <br>
 Sapir changelog:<br>
@@ -23,6 +23,9 @@ Sapir changelog:<br>
 <li> Sapir: Transparent status bar slider in Settings</li>
 <li> Sapir: Changes to init.rc tp enhance performance </li>
 <li> Sapir: Added file explorer </li>
+<li> Add configurable number of icons in launcher dock </li>
+<li> Option to hide alarm clock icon in status bar </li>
+<li> Clear all button on recent apps </li>
 <li> Add SMS to Calnedar </li>
 <li> Fix for adding emoji and smiley to cursor position </li>
 <li> Fix for caller name not sticking to missed calls </li>
@@ -31,12 +34,10 @@ Sapir changelog:<br>
 <li> Delay auto screen-off when answering call </li>
 <li> T9 Dialer searches also in company and nickname </li>
 <li> Option to keep the proximity sensor on during calls using a headset </li>
-<li>*** (<font color="#D9117C">Samsung Galaxy Tab P1000</font>) * Using <b>old partition</b> structure, so data partition is large enough for user applications *</li>
 <li> (<font color="#D9117C">Google Galaxy Nexus</font>) Changed to <a href="http://forum.xda-developers.com/showthread.php?t=1367341">franco kernel</a> self compiled</li>
-<li> (<font color="#D9117C">Samsung Galaxy Tab</font>) Reverted back to CM kernel </li>
 <li> <a href="http://review.cyanogenmod.com/#/q/status:merged,n,z">
 CM Gerrit</a>
-merges as of Mon Oct 29 14:22:02 UTC 2012
+merges as of Sat Nov 10 14:00:37 UTC 2012
 </li>
 <li> New Calculator features </li>
 <li> Added handling of vol rocker long press in camera </li>
@@ -46,22 +47,6 @@ merges as of Mon Oct 29 14:22:02 UTC 2012
 <li> Left navigation bar in landscape mode option</li>
 <li> Status bar can show both signal strength and network tech</li>
 <li> Call log: Add lookup in Call logs</li>
-<li> <span style="color: #999999;">Corrected Kernel string in Settings (M)</span></li>
-<li> <span style="color: #999999;">Messaging - Ability to change soft keyboard when composing (M)</span></li>
-<li> <span style="color: #999999;">Added fullscreen toggle to Browser (M)</span></li>
-<li> <span style="color: #999999;">Enable installing shortcuts in Trebuchet (M)</span></li>
-<li> <span style="color: #999999;">Tethering Fix (M)</span></li>
-<li> <span style="color: #999999;">Clock: Stopwatch and Countdown (M)</span></li>
-<li> <span style="color: #999999;">(Google Galaxy Nexys) Change USB On-the-Go mount point to /storage (M)</span></li>
-<li> <span style="color: #999999;">Lockscreen Clock alignment (M)</span></li>
-<li> <span style="color: #999999;">Mms: Only display template button if templates defined (M)</span></li>
-<li> <span style="color: #999999;">Mms: Add Template support to QuickMessage pop-up(M)</span></li>
-<li> <span style="color: #999999;">Torch: Modify widget to utilize AOSP power widget UI (M)</span></li>
-<li> <span style="color: #999999;">Variable size pattern in lock screen (M)</span></li>
-<li> <span style="color: #999999;">Advanced Phone Settings (M)</span></li>
-<li> <span style="color: #999999;">Control cursor in text fields with volume rocker (M)</span></li>
-<li> <span style="color: #999999;">Quick message support in SMS (M)</span></li>
-<li> <span style="color: #999999;">Nfc card emulation (M)</span></li>
 </ul>
 <small>(M) Merged to CM10</small><br>
 <br>
