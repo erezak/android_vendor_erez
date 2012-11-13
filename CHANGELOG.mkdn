@@ -23,6 +23,7 @@ Sapir changelog:<br>
 <li> Sapir: Transparent status bar slider in Settings</li>
 <li> Sapir: Changes to init.rc tp enhance performance </li>
 <li> Sapir: Added file explorer </li>
+<li> Add group mms threading </li>
 <li> Add configurable number of icons in launcher dock </li>
 <li> Option to hide alarm clock icon in status bar </li>
 <li> Clear all button on recent apps </li>
@@ -37,7 +38,7 @@ Sapir changelog:<br>
 <li> (<font color="#D9117C">Google Galaxy Nexus</font>) Changed to <a href="http://forum.xda-developers.com/showthread.php?t=1367341">franco kernel</a> self compiled</li>
 <li> <a href="http://review.cyanogenmod.com/#/q/status:merged,n,z">
 CM Gerrit</a>
-merges as of Sat Nov 10 14:00:37 UTC 2012
+merges as of Mon Nov 12 13:11:25 UTC 2012
 </li>
 <li> New Calculator features </li>
 <li> Added handling of vol rocker long press in camera </li>
